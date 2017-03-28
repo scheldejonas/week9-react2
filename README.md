@@ -9,8 +9,11 @@ Today we will:
 Slides for [MobX](http://slides3-plaul.rhcloud.com/state/stateHandling.html)
 
 #### Day 2. Advanced state handling with MobX 2
+Slides for [MobX](http://slides3-plaul.rhcloud.com/state/stateHandling.html)
 
 #### Day 3. Archicture for large scale React Apps + Token Based Security
+- Slides for [Authetication and handling Passwords](http://slides3-plaul.rhcloud.com/security/security.html#1)
+- Slides for [Semester Seed - Getting Started](http://slides3-plaul.rhcloud.com/seed/seed.html#1)
 
 #### DAY 4. Java Threads, Futures and Calables
 4. Summary from flow-1
