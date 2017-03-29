@@ -20,5 +20,5 @@
     return this._books;
   }
 }
-export default BookStore;
+export default new BookStore();
 
